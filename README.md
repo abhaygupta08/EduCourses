@@ -1,5 +1,5 @@
 <div align="center"><h1> EduCourses [Web App] </h1>
-This is Frontend of **Application**, designed using **React and Typescript** for Educational Courses Site.
+This is Frontend of <b>Application</b>, designed using <b>React and Typescript</b> for Educational Courses Site.
 </div>
 <br>
 <h2>Live Preview</h2>
@@ -21,12 +21,12 @@ HTML5 , CSS3 , JS , ReactJS , Netlify , Git, TypeScript
 
 
 ## 💠List of Commands:
-Install dependencies - ```yarn```
-Lint all files - ```yarn lint```
-Run project - ```yarn dev```
-Create build for prod - ```yarn build```
-Git commit format - ```git commit -m <subject>:<messsage>```
+Install dependencies - ```yarn``` <br/>
+Lint all files - ```yarn lint``` <br/>
+Run project - ```yarn dev``` <br/>
+Create build for prod - ```yarn build``` <br/>
+Git commit format - ```git commit -m <subject>:<messsage>```<br/>
 
-
+<br/>
 <b><i>Star this Repository and you can visit to my profile and see some more Projects like this.</i></b><br/>
 *Mail me at <a href="mailto:hi+CpBuddy@abhaygupta.me">hi@abhaygupta.me</a> for any collaboration or queries.*
