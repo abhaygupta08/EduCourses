@@ -11,7 +11,7 @@ const App: React.FC = () => {
     <BrowserRouter>
     <Suspense fallback={<Loader />}>
       <Switch>
-<div className='font-poppins'>
+<div className='w-screen overflow-hidden font-poppins'>
     <Navbar />
     <Routes />
     <Footer />

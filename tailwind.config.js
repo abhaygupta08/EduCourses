@@ -260,6 +260,7 @@ module.exports = {
         22: '5.6rem',
         24: '6rem',
         32: '8rem',
+        90: '90vh'
       },
       maxHeight: {
         sm: '31.5rem',

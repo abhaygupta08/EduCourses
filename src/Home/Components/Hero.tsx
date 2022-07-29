@@ -45,7 +45,7 @@ const Hero: React.FC = () => {
     const history = useHistory();
     const [searchData,setsearchData] = useState('');
     return(
-        <div className="flex flex-col md:flex-row justify-center items-end md:h-screen px-4 md:px-16">
+        <div className="flex flex-col md:flex-row justify-center md:h-90 items-end px-4 md:px-16">
             <div 
             className="md:max-w-1/2 flex flex-col gap-4 justify-end py-16">
                 <h1 className="text-3xl md:text-5xl text-center font-bold">

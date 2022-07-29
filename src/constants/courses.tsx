@@ -29,7 +29,7 @@ const _items = [
         discountedPrice : '$9.99',
         rating : 2.3,
         reviewCount : '5.5k+',
-        instructor : 'Abhay Gupta',
+        instructor : 'Obama John',
         catagory : 'Communication',
         imgUrl : 'https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNvdXJzZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
     },

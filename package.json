@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "start" : "vite",
     "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview --port 3000",

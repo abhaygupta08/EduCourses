@@ -12,13 +12,13 @@ const Footer = () => {
                     <h3 className="text-xl text-blue-600 font-roboto">Subscribe to Get Notify</h3>
                     <p className="text-sm">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores obcaecati iste cum rem non assumenda doloribus, tempore architecto quo laboriosam totam voluptatem voluptatibus dicta at placeat autem ab quae perferendis?</p>
                     <form className="flex flex-row my-6 w-full px-4 md:px-14">
-                        <input type='text' className="text-sm border border-blue-600 px-2 py-1 rounded-l w-full" placeholder="Your Email" />
-                        <button className="px-2 py-1 rounded-r bg-blue-600 tracking-wideer text-xs text-white">SUBSCRIBE </button>
+                        <input type='text' className="text-sm border border-blue-600 px-2 py-1.5 rounded-l w-full" placeholder="Your Email" />
+                        <button className="px-2 py-1.5 rounded-r bg-blue-600 tracking-wideer text-sm text-white">SUBSCRIBE </button>
                     </form>
                 </div>
             </div>
             <div className="bg-gray-850 px-4 md:px-36 md:h-96 md:pt-32 text-white flex flex-col md:flex-row gap-8 md:gap-0">
-                <div className='flex flex-col gap-2 md:w-96 mt-16 items-center md:items-start text-center md:text-left'>
+                <div className='flex flex-col gap-2 md:w-96 items-center md:items-start text-center md:text-left'>
                     <div className='flex items-center gap-2'>
                     <img src={logo} alt="logo" className="h-14" style={{filter: 'invert(90%)'}} />
                     <span className="text-xl text-white">Educourses</span>
